@@ -1,0 +1,12 @@
+namespace ConsoleApplication;
+interface
+Program2 = class
+public
+class method main();
+end;
+implementation
+class method Program2.main();
+begin
+print("Hello word");
+end;
+end.

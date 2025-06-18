@@ -1,0 +1,17 @@
+namespace ConsoleApplication;
+interface
+Program7 = class
+public
+class method main();
+end;
+implementation
+class method Program7.main();
+begin
+int r  = 1;
+while(r < 9)
+begin
+print("hi");
+r = r + 1;
+end;
+end;
+end.

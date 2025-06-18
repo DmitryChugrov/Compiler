@@ -1,0 +1,13 @@
+namespace ConsoleApplication;
+interface
+Program3 = class
+public
+class method main();
+end;
+implementation
+class method Program3.main();
+begin
+double r = 9.0+5.8;
+print(r);
+end;
+end.

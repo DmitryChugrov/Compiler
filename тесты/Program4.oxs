@@ -1,0 +1,13 @@
+namespace ConsoleApplication;
+interface
+Program4 = class
+public
+class method main();
+end;
+implementation
+class method Program4.main();
+begin
+int r = 9+5*8;
+print(r);
+end;
+end.

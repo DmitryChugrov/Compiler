@@ -1,0 +1,16 @@
+namespace ConsoleApplication;
+interface
+Program5 = class
+public
+class method main();
+end;
+implementation
+class method Program5.main();
+begin
+for(int i = 0; i < 4; i++)
+begin
+int r = 4 + i;
+print(r);
+end;
+end;
+end.
